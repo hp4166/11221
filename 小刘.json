@@ -1,17 +1,33 @@
 //全部数据来自网络和各大佬资源整合
 //软件接口完全免费，仅供学习交流，切勿付费购买，请于下载后24小时内删除
-//QQ频道：小盒酷玩    
-//公众号：小盒酷玩
-//QQ交流群：81792554
+//QQ频道：   
+//公众号：
+//QQ交流群：
 
 {
 
-"warningText":"小盒酷玩提醒：江湖路漫漫-有缘再会！",    
+"warningText":"豆瓣提醒：江湖路漫漫-有缘再会！",    
 
 
 "sites":[
 
 {"key": "豆瓣","name": "江湖路漫漫-有缘再会","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+
+{ "key": "csp_WoGG", "name": "玩偶┃4K", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$弹" },
+
+{ "key": "玩偶内置", "name": "玩偶┃自营", "type": 4, "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=9a5602254e284136bd6b5639b6add276", "jar": "http://itvba.xyz/tv/jar/YSC.jar" },
+
+
+{ "key":"drpy_js_两个BT", "name":"BT┃2K", "type":3,"api":"http://106.52.241.21:81/JS/lib/drpy2.min.js", "ext":"http://106.52.241.21:81/JS/js/两个BT.js" },
+
+ { "key": "电影港", "name": "电影┃2K", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "changeable": 1, "ext": "https://tvbox.cainisi.cf/json/XYQHiker/电影港磁力.json", "jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b" },
+
+
+{"key":"hnzy", "name":"红牛┃资源", "type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
+
+{"key":"gszy", "name":"光速┃资源", "type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
+
+{"key":"lzzy","name": "量子┃资源","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]}, 
 
 
 {"key":"348", "name":"348", "type": 3, "api": "csp_XBPQ", "playerType": "1", "ext": "./json/348.json" },
@@ -20,6 +36,17 @@
 
 {"key":"小鹿", "name":"小鹿", "type": 3, "api": "csp_XBPQ", "playerType": "1", "ext": "./json/小鹿.json" },
 
+{"key":"csp_CandyMuj_sstv","name":"速搜┃4K","type":3,"api":"csp_CandyMuj_sstv","searchable":1,"quickSearch":0,"filterable":1, "jar": "https://gh-proxy.com/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;f7ba9054a2ecb212449dfe3342c42f10"}, 
+
+{ "key": "七夜", "name": "七夜┃4K", "type": 3, "api": "csp_Dovx", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto" },
+
+ { "key": "虎牙直播js", "name": "虎牙┃直播", "type": 3, "api": "https://drpy.cainisi.cf/libs/drpy2.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "changeable": 0, "ext": "https://drpy.cainisi.cf/js/虎牙直播.js" },
+ 
+{ "key": "UpYun", "name": "Up搜┃4K", "type": 3, "api": "csp_UpYun", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto" },
+    
+     { "key": "PanSearch", "name": "飞龙┃4K", "type": 3, "api": "csp_PanSearch", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto" },
+
+     
 {"key":"freeok", "name":"freeok", "type": 3, "api": "csp_XBPQ", "playerType": "1", "ext": "./json/freeok.json" },
 
 {"key":"厂长", "name":"厂长", "type": 3, "api": "csp_XBPQ", "playerType": "1", "ext": "./json/厂长.json" },
@@ -28,34 +55,8 @@
 
 {"key":"虎虎", "name":"虎虎", "type": 3, "api": "csp_XBPQ", "playerType": "1", "ext": "./json/虎虎.json" },
 
-{ "key": "csp_WoGG", "name": "玩偶┃4K", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$弹" },
 
-{ "key": "七夜", "name": "七夜┃4K", "type": 3, "api": "csp_Dovx", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto" },
-
-{ "key": "玩偶内置", "name": "玩wu┃T4", "type": 4, "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=9a5602254e284136bd6b5639b6add276", "jar": "http://itvba.xyz/tv/jar/YSC.jar" },
-
-{"key":"csp_CandyMuj_sstv","name":"速搜┃4K","type":3,"api":"csp_CandyMuj_sstv","searchable":1,"quickSearch":0,"filterable":1, "jar": "https://gh-proxy.com/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;f7ba9054a2ecb212449dfe3342c42f10"}, 
-
-{ "key":"drpy_js_两个BT", "name":"BT┃2K", "type":3,"api":"http://106.52.241.21:81/JS/lib/drpy2.min.js", "ext":"http://106.52.241.21:81/JS/js/两个BT.js" },
-
- { "key": "电影港", "name": "电影┃2K", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "changeable": 1, "ext": "https://tvbox.cainisi.cf/json/XYQHiker/电影港磁力.json", "jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b" }, 
-
-{"key":"hnzy", "name":"红牛┃资源", "type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
-
-{"key":"gszy", "name":"光速┃资源", "type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
-
-{"key":"lzzy","name": "量子┃资源","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]}, 
-
-{ "key": "虎牙直播js", "name": "虎牙┃直播", "type": 3, "api": "https://drpy.cainisi.cf/libs/drpy2.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "changeable": 0, "ext": "https://drpy.cainisi.cf/js/虎牙直播.js" },
-
-  { "key": "Zhaozy", "name": "阿里┃资源", "type": 3, "api": "csp_Zhaozy", "playerType": 1, "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "df1a2af97c7e405b8d9bf78951e2c4ff$$$ygfxz$$$66666" },
-
-{ "key": "UpYun", "name": "Up搜┃4K", "type": 3, "api": "csp_UpYun", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto" },
-    
-     { "key": "PanSearch", "name": "飞龙┃4K", "type": 3, "api": "csp_PanSearch", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto" },
-
-
-{"key": "douban","name": "Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
+{"key": "douban","name": "豆瓣","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
 
 ],

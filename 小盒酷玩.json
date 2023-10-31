@@ -36,7 +36,7 @@
 
 {"key":"csp_CandyMuj_sstv","name":"速搜┃4K","type":3,"api":"csp_CandyMuj_sstv","searchable":1,"quickSearch":0,"filterable":1, "jar": "https://gh-proxy.com/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;f7ba9054a2ecb212449dfe3342c42f10"}, 
 
-{"key":"追忆", "name":"追忆┃2K", "type": 3, "api": "csp_AppSK", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZAH4tPWnVF46Ct0RcDCdqQ/iHaxETP6KexDCalbnKb235g2zI+TmNzCM49OFRCWdee3hnULz5M1CsK3w==" }, 
+{ "key":"drpy_js_两个BT", "name":"BT┃2K", "type":3,"api":"http://106.52.241.21:81/JS/lib/drpy2.min.js", "ext":"http://106.52.241.21:81/JS/js/两个BT.js" },
 
 {"key": "douban","name": "Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 

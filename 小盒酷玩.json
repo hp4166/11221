@@ -40,6 +40,9 @@
 
  { "key": "电影港", "name": "电影┃2K", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "changeable": 1, "ext": "https://tvbox.cainisi.cf/json/XYQHiker/电影港磁力.json", "jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b" }, 
 
+{ "key": "csp_XYQHiker_‍dyx", "name": "宙磁┃高清", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://pan.shangui.cc/f/2mL4hx/dyg.json", "jar": "https://pan.shangui.cc/f/MeZ1uy/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621" },
+
+
 {"key": "douban","name": "Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
 

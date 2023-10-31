@@ -34,6 +34,8 @@
 
 { "key": "玩偶内置", "name": "玩wu┃T4", "type": 4, "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=9a5602254e284136bd6b5639b6add276", "jar": "http://itvba.xyz/tv/jar/YSC.jar" },
 
+{"key":"csp_CandyMuj_sstv","name":"速搜┃4K","type":3,"api":"csp_CandyMuj_sstv","searchable":1,"quickSearch":0,"filterable":1, "jar": "https://gh-proxy.com/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;f7ba9054a2ecb212449dfe3342c42f10"}, 
+
 {"key": "douban","name": "Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
 

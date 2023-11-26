@@ -38,13 +38,13 @@
         },
 
 {
-            "key": "两个BT",
+            "key": "两个bt",
             "name": "BT┃2K",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
             "api": "./lib/drpy2.min.js",
-            "ext": "./js/两个BT.js",
+            "ext": "./js/两个bt.js",
             "changeable": 0
         },
 

@@ -38,31 +38,15 @@
         },
 
 {
-      "key": "快车资源",
-      "name": "快车┃资源",
-      "type": 1,
-      "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "国产剧",
-        "战争片",
-        "动作片",
-        "香港剧"
-      ]
-    },
-
-{
-      "key": "厂长",
-      "name": "🏭🐼时光┃厂长备用",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": "https://www.cz0101.com/"
-    },
+            "key": "两个BT",
+            "name": "BT┃2K",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/两个BT.js",
+            "changeable": 0
+        },
 
  {
       "key": "卧龙资源",

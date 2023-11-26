@@ -52,25 +52,17 @@
       ]
     },
 
- {
-      "key": "闪电资源",
-      "name": "🐼时光┃闪电",
-      "type": 1,
-      "api": "http://sdzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
 {
-            "key": "js_czsapp",
-            "name": "🐼时光┃厂长备用",
-            "type": 3,
-            "api": "./lib/drpymin2.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/厂长.json"
-        },
-
+      "key": "厂长",
+      "name": "🏭🐼时光┃厂长备用",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": "https://www.cz0101.com/"
+    },
 
  {
       "key": "卧龙资源",

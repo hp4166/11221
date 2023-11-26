@@ -37,7 +37,16 @@
             "changeable": 0
         },
 
-
+ {
+      "key": "Czsapp",
+      "name": "厂长┃2K",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
 
  {
       "key": "卧龙资源",

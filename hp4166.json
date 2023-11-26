@@ -22,7 +22,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "api": "./lib/drpy2.min.js",
-            "ext": "./lib/南瓜.js",
+            "ext": "./js/南瓜.js",
             "changeable": 0
         },
 

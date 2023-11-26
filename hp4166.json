@@ -105,7 +105,7 @@
      
 {"key":"freeok", "name":"freeok", "type": 3, "api": "csp_XBPQ", "playerType": "1", "ext": "./json/freeok.json" },
 
-{"key":"厂长", "name":"厂长", "type": 3, "api": "csp_XBPQ", "playerType": "1", "ext": "./json/厂长.json" },
+{"key":"厂长", "name":"厂长", "type": 3, "api": "csp_Czsapp", "playerType": "1", "ext": "./json/厂长.json" },
 
 {"key":"素白白", "name":"素白白", "type": 3, "api": "csp_XBPQ", "playerType": "1", "ext": "./json/素白白.json" },
 

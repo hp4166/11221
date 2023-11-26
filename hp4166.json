@@ -32,7 +32,7 @@
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
-            "api": "./lib/drpy2.min.js",
+            "api": "csp_XBPQ",
             "ext": "./js/在线.js",
             "changeable": 0
         },

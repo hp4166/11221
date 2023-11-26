@@ -37,17 +37,6 @@
             "changeable": 0
         },
 
-{
-            "key": "两个bt",
-            "name": "BT┃2K",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/两个bt.js",
-            "changeable": 0
-        },
-
  {
       "key": "卧龙资源",
       "name": "卧龙┃资源",

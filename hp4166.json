@@ -100,7 +100,6 @@
 
  { "key": "虎牙直播js", "name": "虎牙┃直播", "type": 3, "api": "https://drpy.cainisi.cf/libs/drpy2.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "changeable": 0, "ext": "https://drpy.cainisi.cf/js/虎牙直播.js" },
  
- { "key": "课堂教育", "name": "课堂教育", "type": 3, "api": "csp_Bili", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "https://xhdwc.tk/jiaoyu/兴趣课堂.json" },
 
 {"key":"freeok", "name":"freeok", "type": 3, "api": "csp_XBPQ", "playerType": "1", "ext": "./json/freeok.json" },
 

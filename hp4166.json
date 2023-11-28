@@ -104,7 +104,7 @@
         "key": "NoSearch_csp_BBB",
         "name": "哔哩哔哩",
         "type": 3,
-        "api": "csp_Bili",
+        "api": "csp_bili",
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,

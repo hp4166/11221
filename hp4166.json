@@ -100,16 +100,6 @@
 
  { "key": "虎牙直播js", "name": "虎牙┃直播", "type": 3, "api": "https://drpy.cainisi.cf/libs/drpy2.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "changeable": 0, "ext": "https://drpy.cainisi.cf/js/虎牙直播.js" },
  
-{
-        "key": "NoSearch_csp_BBB",
-        "name": "哔哩哔哩",
-        "type": 3,
-        "api": "csp_bili",
-        "searchable": 0,
-        "quickSearch": 0,
-        "filterable": 1,
-        "ext": "./bili/bil.json"
-    },
 
 {"key":"freeok", "name":"freeok", "type": 3, "api": "csp_XBPQ", "playerType": "1", "ext": "./json/freeok.json" },
 

@@ -161,6 +161,7 @@ CGTN阿拉伯语,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 CGTN西班牙语,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226284/1/index.m3u8?fmt=ts2hls
 
 少儿频道,#genre#
+CCTV14少儿,http://cyz32.livehbindex.hbcatv.cn/live/8a22035194884b1eb5515aac434c313c.m3u8?bitrate=2300&pt=5
 哈哈炫动,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
 南京少兒,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 浙江少兒,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
@@ -176,17 +177,7 @@ CGTN西班牙语,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 key=0b292c335e5837e947f9409c59228f3e6
 
-数字,#genre#
-茶,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
-苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
-内蒙古卫视,http://v2.91kds.cn/b9/hoge.m3u8?ip=nmtv&id=92&auth=rinimabi
-康巴卫视,http://v2.91kds.cn/b9/sctv.m3u8?id=kbws&auth=rinimabi
-安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-百姓健康,https://liveplay.xiaoeknow.com/live/5060_pyBeyjJ4RjcfhK7T.m3u8
-中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
-中国党员教育,http://12371ksc.v.kcdnvip.com/12371/dangyuanwang_1/index.m3u8
+电影,#genre#
 地雷战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
 地道战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/312e39c68cc441feb79d1c2d7e16cbbd/850.m3u8
 跟踪追击,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/059096230b4e46c0b5d4929ff98435d0/850.m3u8
@@ -1514,17 +1505,6 @@ CCTV5-,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212263
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8?
 咪咕体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
-
-少儿动画,#genre#
-CCTV14少儿,http://cyz32.livehbindex.hbcatv.cn/live/8a22035194884b1eb5515aac434c313c.m3u8?bitrate=2300&pt=5
-黑莓动画,http://111.40.196.27:443/PLTV/88888888/224/3221225628/1.m3u8
-优漫卡通,http://111.40.196.29:443/PLTV/88888888/224/3221225586/1.m3u8
-优漫卡通,http://maomao.kandiantv.cn/m3u8.php?/migu/626064703
-优漫卡通,http://111.20.35.103:6610/000000001000/5574405527570022182/index.m3u8?channel-id=ystenlive&Contentid=5574405527570022182&livemode=1&stbId=00
-卡酷少儿,http://111.40.196.30:443/PLTV/88888888/224/3221225645/1.m3u8
-卡酷少儿,http://111.20.35.103:6610/000000001000/7589856436881630561/index.m3u8?channel-id=ystenlive&Contentid=7589856436881630561&livemode=1&stbId=00
-卡酷少儿,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8?
-卡酷少儿,http://cyz32.livehbindex.hbcatv.cn/live/500000203cd4401ea738b3bc79d39dfa.m3u8
 
 🌏全球 👉惊,#genre#
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8

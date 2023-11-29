@@ -14,19 +14,6 @@
 {"key": "豆瓣","name": "江湖路漫漫-有缘再会","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
 {
-"key":"Bili",
-"name":"哔哩哔哩",
-"type": 3,
-"api": "csp_Bili",
-"style":
-{"type":"rect",
-"ratio":1.597},
-"searchable":1,
-"quickSearch":0,
-"changeable":0,
-"ext":"https://jihulab.com/11221/jkk/-/raw/main/li/li.json"},
-
-{
             "key": "南瓜",
             "name": "南瓜┃2K",
             "type": 3,

@@ -3,16 +3,7 @@
 //永久配置，随时维护更新修复，您只需配置好就行了，接口由极狐平台管理维护。
 //源失效以及提供源反馈请到微信公众号：jinengzs
 {
-  "spider": "./jar/cc.jar;md5;125712f0807f914eae788cd96348e259",
-  "wallpaper": "https://api.likepoems.com/img/bing",
-  
-  "lives":
-  [{"name": "电视直播", 
-  "type": 0,
-  "url": "./tvlive/tvlive.txt",
-  "playerType": 1
-  }], 
-
+ 
 "sites":
 [{
 "key":"douban",

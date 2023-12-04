@@ -24,15 +24,19 @@
             "changeable": 0
         },
 
-  {
+ {
       "key": "77",
-      "name": "七七┃App",
+      "name": "七七┃2K",
       "type": 3,
       "api": "csp_Kunyu77",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "jar":"./jar/fty.jar",
+      "changeable": 0
+
     },
+	
      {
       "key": "一起看",
       "name": "一起看┃2K",
@@ -162,7 +166,7 @@
 
 "flags": ["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
 
-  "spider": "./jar/fty.jar",
+
 "spider":"./jar/xhkw1.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
 
 

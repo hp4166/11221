@@ -157,14 +157,6 @@
 "wallpaper":"https://tool.weetai.cn/api",
 
 
-"lives": [{
-		    "name": "live",
-		    "type": 0,
-		    "url": "./live",
-		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-                    "logo": "https://epg.112114.xyz/logo/{name}.png"
-	    }],   
-
 "parses": [
     {
       "name": "聚合",
@@ -420,4 +412,16 @@
         "更 新"
       ]
     }
-  ]}
+  ],
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "./lib/tvlive.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
+}

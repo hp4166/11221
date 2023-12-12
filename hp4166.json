@@ -7,7 +7,7 @@
 
 "sites":[
 
-{"key": "豆瓣","name": "江湖路漫漫-有缘再会","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+{"key": "豆瓣","name": "防失联公众号（龙鲤不是鲤）","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
 {
             "key": "南瓜",
@@ -144,7 +144,7 @@
 {"key":"虎虎", "name":"虎虎", "type": 3, "api": "csp_XBPQ", "playerType": "1", "ext": "./json/虎虎.json" },
 
 
-{"key": "douban","name": "豆瓣","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
+{"key": "douban","name": "防失联公众号（龙鲤不是鲤）","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
 
 ],

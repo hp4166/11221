@@ -1,9 +1,9 @@
 📡👉重点,#genre#
 就是个视频,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOaa4gUo_J_z6gI.mp4
 📡港澳台 👉,#genre#
+CCTV-13,http://223.12.191.254:8082/udp/239.1.1.20:8020
 CCTV-13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 CCTV-13,http://devlivepull.migucloud.com/live/3S6PAWLT_C0.flv
-CCTV-13,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8
 凤凰中文,http://47.242.38.45:9999/twjd678-1.php?id=68
 凤凰中文,http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/phoenixif.m3u8
 凤凰资讯,http://47.242.38.45:9999/twjd678-1.php?id=67
@@ -43,9 +43,9 @@ Bre面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 🏆体育 👉断,#genre#
 纬来篮球,https://cloud.yumixiu768.com/tmp/123.m3u8
-CCTV05,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+CCTV05,http://223.12.191.254:8082/udp/239.1.1.11:8011
 CCTV05,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv5hd265/57/20191230/index.m3u8?&encrypt=
-CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV5+,http://223.12.191.254:8082/udp/239.1.1.12:8012
 CCTV5+,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1583876590_-1805575416/wd_r2/cctv/cctv5plusnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073733&ContentId=265106763&timezone=UTC&mtv_session=1f5bd52f67ecd434a6cf3bd7ebc51a71&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=08375028c68909716c1218fc91018199
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 五星体育,https://angtv.cn/test/bestv.php?id=wxtyhd8m/8000000
@@ -85,25 +85,25 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212269
 
 📡央视 👉众,#genre#
 
-CCTV-1HD,http://47.242.38.45:9999/ysp.php?id=cctv1
-CCTV-1HD2,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1581250417_885644752/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073731&ContentId=265183188&timezone=UTC&mtv_session=daa1da1586a901a8da2361a3c74fb673&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7ebdf5c15cb6d83de8422d8a58468f02
-CCTV-2HD,http://47.242.38.45:9999/ysp.php?id=cctv2
-CCTV-3HD,http://47.242.38.45:9999/ysp.php?id=cctv3
-CCTV-4HD,http://47.242.38.45:9999/ysp.php?id=cctv4
+CCTV-1HD,http://223.12.191.254:8082/udp/239.1.1.7:8007
+CCTV-2HD,http://223.12.191.254:8082/udp/239.1.1.8:8008
+CCTV-3HD,http://223.12.191.254:8082/udp/239.1.1.9:8009
+CCTV-4HD,http://223.12.191.254:8082/udp/239.1.1.10:8010
 CCTV-4美洲,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1582682240_-1402839824/migu/kailu/20200324/cctv4meihd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073732&ContentId=265667335&timezone=UTC&mtv_session=361466f23b240ef7fb33d32f582f16e5&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0ecf0c5bd1bb66dff4d24e873e5c63ef
-CCTV-5HD,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-CCTV-5+HD,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-CCTV-6HD,http://47.242.38.45:9999/1905.php?id=cctv6
-CCTV-7HD,http://47.242.38.45:9999/ysp.php?id=cctv7
-CCTV-8HD,http://47.242.38.45:9999/ysp.php?id=cctv8
-CCTV-9HD,http://47.242.38.45:9999/ysp.php?id=cctv9
-CCTV-10HD,http://47.242.38.45:9999/ysp.php?id=cctv10
-CCTV-11HD,http://47.242.38.45:9999/ysp.php?id=cctv11
-CCTV-12HD,http://47.242.38.45:9999/ysp.php?id=cctv12
-CCTV-13HD,http://47.242.38.45:9999/ysp.php?id=cctv13
-CCTV-14HD,http://47.242.38.45:9999/ysp.php?id=cctv14
-CCTV-15HD,http://47.242.38.45:9999/ysp.php?id=cctv15
-CCTV-17HD,http://47.242.38.45:9999/ysp.php?id=cctv17
+CCTV-5HD,http://223.12.191.254:8082/udp/239.1.1.11:8011
+CCTV-5+HD,http://223.12.191.254:8082/udp/239.1.1.12:8012
+CCTV-6HD,http://223.12.191.254:8082/udp/239.1.1.13:8013
+CCTV-7HD,http://223.12.191.254:8082/udp/239.1.1.14:8014
+CCTV-8HD,http://223.12.191.254:8082/udp/239.1.1.15:8015
+CCTV-9HD,http://223.12.191.254:8082/udp/239.1.1.16:8016
+CCTV-10HD,http://223.12.191.254:8082/udp/239.1.1.17:8017
+CCTV-11HD,http://223.12.191.254:8082/udp/239.1.1.18:8018
+CCTV-12HD,http://223.12.191.254:8082/udp/239.1.1.19:8019
+CCTV-13HD,http://223.12.191.254:8082/udp/239.1.1.20:8020
+CCTV-14HD,http://223.12.191.254:8082/udp/239.1.1.21:8021
+CCTV-15HD,http://223.12.191.254:8082/udp/239.1.1.22:8022
+CCTV-16HD,http://223.12.191.254:8082/udp/239.1.1.122:8122
+CCTV-17HD,http://223.12.191.254:8082/udp/239.1.1.23:8023
 CGTN西语,http://hms2904nc1972666633.live.aikan.miguvideo.com/wh7f454c46tw1587345813_482110171/envivo_v/2018/SD/cctv/xibanya/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265218872&timezone=UTC&mtv_session=77cb0a926d2b93c105e811549cf499b3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=03d4607d5c9bfb5d66f170535cb3fbba
 CGTN阿语,http://hms2904nc1972666633.live.aikan.miguvideo.com/wh7f454c46tw1587628749_-159090613/envivo_v/SD/cctv/alabo/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265219154&timezone=UTC&mtv_session=d15843f3acb2d100ab402ea7a89e39ca&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=440162df6b440ca2fd096a0c18261118
 CHC家庭影院,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad
@@ -199,7 +199,7 @@ CCTV17咪咕,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-河北卫视,http://event.pull.hebtv.com/jishi/weishipindao.m3u8
+河北卫视,http://223.12.191.254:8082/udp/239.1.1.48:8048
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
@@ -261,7 +261,7 @@ CGTN阿拉伯语,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 CGTN西班牙语,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226284/1/index.m3u8?fmt=ts2hls
 
 河北综合,#genre#
-河北卫视,https://live-dtocnc-cdn.ysp.cctv.cn/A7DBD69114765370A0448C10DC6B3FB6E90B10F75B22E4179554C7B49460DE7A41E75C96AFBD537A1E7DA0780A6D362FE663D18AE49448F2EE500C7EE9AD00B328EC75E25DEE012BAB0E957296377B8032795EB8B8E07572B82603CF163CB69184F55F81B582C3D63693F2A429788AD8/2000205103.m3u8?from=player&svrtime=1702036902&pid=600001818&cdn=5505&revoi=277B5D4A6BCAAE38375546E5EE719165B51E40DA5B6CCB63090DECB12B045FEBB0356FE5E7225E3F9B753646FB2A357F4BFE90211342A5D856E214A81E621EA735D71FF2A7FECC13B45E9078A1A071A42E87C00CDD1D371C13FB0FDCD30752E266271AE9E8644A9B43C2F83D0EDD27F003BEC87B769E08FA891BFD5D2B7FF858C9DD91657CB870214ECB04DDEA02FEDE4523413A94C4E3CB61C169E2BB046782B7975B61E8780EA425D6A4AD0C3580EB5C1D99158B6A459D
+河北卫视,http://223.12.191.254:8082/udp/239.1.1.48:8048
 河北影视,http://cyz32.livehbindex.hbcatv.cn/live/50000020b87d48a78fc68b1f51e8a926.m3u8?bitrate=2300&pt=5
 河北影视,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel13006/index.m3u8
 河北农民,http://cyz32.livehbindex.hbcatv.cn/live/500000202fa64c9bac01e09eaf06afd8.m3u8?bitrate=2300&pt=5
